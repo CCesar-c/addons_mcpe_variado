@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Mod de Optimizacion FPS para MCPE 1.14.20",
+    "name": "Optimizar_RP",
+    "uuid": "90b6cc8c-5842-4ba2-abd9-41df2ea4a05f",
+    "version":[1, 0, 0],
+    "min_engine_version": [1, 14, 20]
+  },
+  "modules": [
+    {
+      "description": "Texturas y particulas optimizadas",
+      "type": "resources",
+      "uuid": "b6bae619-fcb2-497e-966a-7bf8778a499d",
+      "version": [1, 0, 0]
+    }
+  ]
+}
