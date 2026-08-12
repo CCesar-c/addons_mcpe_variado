@@ -1,9 +1,11 @@
 {
-  "resource_pack_name": "Optimizar_RP",
-  "texture_name": "atlas.terrain",
-  "texture_data": {
-    "stone": {
-      "textures": "textures/blocks/stone"
+    "resource_pack_name": "Optimizar_RP",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "stone": {
+            "textures": "textures/blocks/stone"
+        }
     }
-  }
 }
